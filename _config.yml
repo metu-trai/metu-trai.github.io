@@ -1,8 +1,8 @@
-title: "METU-Balance Project Page"
+title: "Graduate Course: Trustworthy and Responsible AI (TRAI) [METU Dept. of Computer Engineering, CENG7880]"
 author:
-  name: Sinan Kalkan, Emre Akbas
+  name: Sinan Kalkan
 description: > # this means to ignore newlines until "show_excerpts:"
-  This is the official page for the METU-Balance Project.
+  This is the webpage page for the graduate-level course on Trustworthy and Responsible AI taught at the Dept. of Computer Engineering, METU.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
