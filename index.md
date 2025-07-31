@@ -91,37 +91,41 @@ nav.fill ul li a {
 
   <nav class="stroke">
     <ul>
-      <li><a class="aS" href="#wid">About the Course</a></li>
-      <li><a class="aS" href="#summary">Summary</a></li>
-      <li><a class="aS" href="#publications">Publications</a></li>
-      <li><a class="aS" href="#contact">Contact</a></li>
+      <li><a class="aS" href="#about">About the Course</a></li>
+      <li><a class="aS" href="#instructor">Instructor</a></li>
+      <li><a class="aS" href="#announcements">Announcements</a></li>
+      <li><a class="aS" href="#weekly-coverage">Weekly Coverage</a></li>
     </ul>
   </nav>
 
 
 ------
 
-<p align="center">
-    <img src="./visuals/dengesizlik_plot.png" width="100%">
-    <i>Figure 1: Many problems in practice exhibit strong imbalance towards certain classes or categories, which can severely impact learning performance. (a) Foreground-background imbalance problem in object detection. (b) Imbalance problem among object categories. (Figure source: [Oksuz et al., 2021](https://arxiv.org/abs/1909.00169)).</i>
-</p>
+### <tag id="about">About the Course</tag>
 
------
-### <tag id="wid">What is DENGE?</tag>
+Deep learning based methods and their uses in various AI applications are very rapidly transforming science and technology. Although there is a tremendous interest in such methods in various fields such as computer vision, pattern recognition, speech recognition, natural language processing, robotics etc., the computational mechanisms for trust and responsibility in AI are still unsolved problems. This course provides an opportunity to students to raise awareness about the social, ethical and policy implications of AI; to study and develop deep learning based methods that are robust, explainable and fair.
 
-DENGE is
+This is a graduate-level course taught at the <a href="https://ceng.metu.edu.tr">Dept. of Computer Engineering</a>, <a href="https://metu.edu.tr">METU</a>. 
 
+#### Catalog Description
 
-### <tag id="summary">Summary</tag> 
+Ethical concepts and principles of trust and responsibility in AI; computational methods for dependability and robustness in AI; computational methods for explainability in AI; computational methods for bias and fairness in AI.
 
-Class imbalance 
+#### Background Requirements
 
-### <tag id=publications>Publications</tag> 
+* Background in deep learning: The students must have taken <a href="https://catalog.metu.edu.tr/course.php?prog=571&course_code=5710403">CENG403 (Introduction to Deep Learning)</a> or <a href="https://catalog.metu.edu.tr/course.php?prog=571&course_code=5710501">CENG501 (Deep Learning)</a>.
+* Programming skills in Python.
 
-The list of publicati
+### <tag id="instructor">Instructor</tag> 
 
+Prof. Dr. Sinan Kalkan<br>
+<a href="https://metu.edu.tr">METU</a> <a href="https://ceng.metu.edu.tr">Dept. of Computer Engineering</a> and <a href="https://romer.metu.edu.tr">METU Robotics and AI Center</a><br>
+<a href="https://user.ceng.metu.edu.tr/~skalkan/">https://user.ceng.metu.edu.tr/~skalkan/</a>
 
+### <tag id=announcements>Announcements</tag> 
 
-### <tag id=contact>Contact</tag> 
+Announcements will be listed here.
 
-Please use the following email address for course related issues: metu-denge [@] googlegroups [dot] com
+### <tag id=weekly-coverage>Weekly Coverage</tag> 
+
+Weekly coverage will be listed here.
