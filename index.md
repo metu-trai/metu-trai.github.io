@@ -1,4 +1,4 @@
-Project webpage for the project entitled "Addressing Class Imbalance in Visual Recognition Problems by Measuring Class Imbalance and Using Epistemic Uncertainty" with acronym BALANCE (DENGE), supported by [TUBITAK](http://tubitak.gov.tr/) 1001 (no 120E494).
+METU Dept. of Computer Engineering -- Graduate-level Course CENG7880 -- Trustworthy and Responsible AI
 
 <style>
 .aS {
@@ -91,7 +91,7 @@ nav.fill ul li a {
 
   <nav class="stroke">
     <ul>
-      <li><a class="aS" href="#wid">What is DENGE?</a></li>
+      <li><a class="aS" href="#wid">About the Course</a></li>
       <li><a class="aS" href="#summary">Summary</a></li>
       <li><a class="aS" href="#publications">Publications</a></li>
       <li><a class="aS" href="#contact">Contact</a></li>
@@ -109,45 +109,16 @@ nav.fill ul li a {
 -----
 ### <tag id="wid">What is DENGE?</tag>
 
-DENGE is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a two-year project (2021-2023) for developing better methods for addressing imbalance problems. The project is being conducted at [METU Image Lab, Dept. of Computer Eng., METU](https://image.ceng.metu.edu.tr). It builds on the team's experience on and extends the results of the team's previous project entitled "Object Detection in Videos with Deep Neural Networks" (funded by [TUBITAK](http://tubitak.gov.tr/) with no 117E054).
-
-| <!-- -->      | <!-- --> |
-| ------------- | -------- |
-| Project No    | 120E494     |
-| Project Type | [ARDEB-1001](https://www.tubitak.gov.tr/tr/destekler/akademik/ulusal-destek-programlari/icerik-1001-bilimsel-ve-teknolojik-arastirma-projelerini-destekleme-pr) | 
-| Budget          | ~ TRY 340K (~ $ 45K) |
-| Dates           | 1 March 2021 - 1 March 2023 | 
-| Coordinators | [Emre Akbas](http://ceng.metu.edu.tr/~emre/) [METU Image Lab, Dept. of Computer Eng., METU] and [Sinan Kalkan](http://ceng.metu.edu.tr/~skalkan/) [METU Image Lab, Dept. of Computer Eng., METU]  |
-| Researchers | [Kemal Oksuz](https://kemaloksuz.github.io/) [METU Image Lab, Dept. of Computer Eng., METU] |
-| Students    | Zeynep Sonat Baltaci, Baris Can Cam, Gunes Cepic, Sinem Donmez, Cagri Eser, Ece Gokcay, Baran Gulmez, Ertugrul Gungor, Fehmi Kahraman, Berkin Kerim Konar, Selim Kuzucu, Alpay Ozkan, Kivanc Tezoren, Feyza Yavuz |
+DENGE is
 
 
 ### <tag id="summary">Summary</tag> 
 
-Class imbalance (CI) is an important problem affecting the generalization performance of machine learning methods. CI can basically be defined as the problem that some classes contain fewer samples than others in the dataset. According to this definition and the general opinion in the literature, this unbalanced distribution between classes causes machine learning methods to perform better on classes containing a large number of samples, while being insufficient for classes containing a small number of samples.
-
-Many methods have been developed against CI problems in recent years. These methods generally suggest (i) correcting bias by over-sampling or sub-sampling, or (ii) attaching more importance to “hard” samples. These methods are known to alleviate the CI problem and improve performance.
-
-The proposed project will focus on improving existing methods in the following ways:
-
-* Observation 1: Having relatively fewer samples for one class does not mean that the classification performance of that class will be poor.
-
-* Observation 2: Sample hardness may not be an indicator of imbalance, although it has shown promising results.
+Class imbalance 
 
 ### <tag id=publications>Publications</tag> 
 
-The list of publications (from DENGE and its precursor project):
-
-* F. Yavuz, B. C. Cam, A. H. Dogan, K. Oksuz, E. Akbas*, S. Kalkan*, "Bucketed Ranking-based Losses for Efficient Training of Object Detectors", 18th European Conference on Computer Vision (ECCV), 2024.
-* B. Cetinkaya, S. Kalkan*, E. Akbas*, "RankED: Addressing Imbalance and Uncertainty in Edge Detection Using Ranking-based Losses", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Arxiv](https://arxiv.org/abs/2403.01795), [Code](https://ranked-cvpr24.github.io/)
-* Z. S. Baltaci, K. Oksuz, S. Kuzucu, K. Tezoren, B. K. Konar, A. Ozkan, E. Akbas*, S. Kalkan*, "Class Uncertainty: A Measure to Mitigate Class Imbalance", under review, 2023. [Arxiv](https://arxiv.org/abs/2311.14090)
-* F. Kahraman, K. Oksuz, S. Kalkan*, E. Akbas*, "Correlation Loss: Enforcing Correlation between Classification and Localization", Thirty-Seventh AAAI Conference on Artificial Intelligence, 2023. [Arxiv](https://arxiv.org/abs/2301.01019), [Code](https://github.com/fehmikahraman/CorrLoss)
-* K. Oksuz, B. C. Cam, S. Kalkan*, E. Akbas*, "One Metric to Measure them All: Localisation Recall Precision (LRP) for Evaluating Visual Detection Tasks", IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 44(12):9446-9463, 2022. [Arxiv](https://arxiv.org/abs/2011.10772), [Code](https://github.com/kemaloksuz/LRP-Error).
-* K. Oksuz, B. C. Cam, E. Akbas*, S. Kalkan*, "Rank & Sort Loss for Object Detection and Instance Segmentation", International Conference on Computer Vision (ICCV), oral presentation, 2021. [Arxiv](https://arxiv.org/abs/2107.11669), [Code](https://github.com/kemaloksuz/RankSortLoss).
-* K. Oksuz, B. C. Cam, S. Kalkan*, E. Akbas*, "Imbalance Problems in Object Detection: A Review", IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 43(10):3388-3415, 2021. [Arxiv](https://arxiv.org/abs/1909.00169), [Publisher](https://ieeexplore.ieee.org/document/9042296), [Repo](https://github.com/kemaloksuz/ObjectDetectionImbalance).
-* K. Oksuz, B. C. Cam, E. Akbas*, S. Kalkan*, "A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection", Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS), spotlight paper, 2020. [Arxiv](https://arxiv.org/abs/2009.13592), [NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/b2eeb7362ef83deff5c7813a67e14f0a-Abstract.html), [Code](https://github.com/kemaloksuz/aLRPLoss).
-* K. Oksuz, B. C. Cam, E. Akbas*, S. Kalkan*, "Generating Positive Bounding Boxes for Balanced Training of Object Detectors", IEEE Winter Conference on Applications of Computer Vision (WACV), 2020. [Arxiv](https://arxiv.org/abs/1909.09777), [Publisher](https://www.computer.org/csdl/proceedings-article/wacv/2020/09093503/1jPbqXS57W0), [Code](https://github.com/kemaloksuz/BoundingBoxGenerator).
-* 
+The list of publicati
 
 
 
