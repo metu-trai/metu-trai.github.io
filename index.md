@@ -1,4 +1,4 @@
-METU Dept. of Computer Engineering -- Graduate-level Course CENG7880 -- Trustworthy and Responsible AI
+<!-- Graduate Course on Trustworthy and Responsible AI (CENG7880 - METU Dept. of Computer Eng.)-->
 
 <style>
 .aS {
