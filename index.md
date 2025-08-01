@@ -94,7 +94,7 @@ nav.fill ul li a {
       <li><a class="aS" href="#about">About the Course</a></li>
       <li><a class="aS" href="#instructor">Instructor</a></li>
       <li><a class="aS" href="#announcements">Announcements</a></li>
-      <li><a class="aS" href="#weekly-coverage">Weekly Coverage</a></li>
+      <li><a class="aS" href="#weeklycoverage">Weekly Coverage</a></li>
     </ul>
   </nav>
 
@@ -105,7 +105,7 @@ nav.fill ul li a {
 
 Deep learning based methods and their uses in various AI applications are very rapidly transforming science and technology. Although there is a tremendous interest in such methods in various fields such as computer vision, pattern recognition, speech recognition, natural language processing, robotics etc., the computational mechanisms for trust and responsibility in AI are still unsolved problems. This course provides an opportunity to students to raise awareness about the social, ethical and policy implications of AI; to study and develop deep learning based methods that are robust, explainable and fair.
 
-This is a graduate-level course taught at the <a href="https://ceng.metu.edu.tr">Dept. of Computer Engineering</a>, <a href="https://metu.edu.tr">METU</a>. 
+This is a graduate-level course taught (<a href="https://catalog.metu.edu.tr/course.php?prog=571&course_code=5717880">CENG7880</a>) at the <a href="https://ceng.metu.edu.tr">Dept. of Computer Engineering</a>, <a href="https://metu.edu.tr">METU</a>. 
 
 #### Catalog Description
 
@@ -126,6 +126,6 @@ Prof. Dr. Sinan Kalkan<br>
 
 Announcements will be listed here.
 
-### <tag id=weekly-coverage>Weekly Coverage</tag> 
+### <tag id=weeklycoverage>Weekly Coverage</tag> 
 
 Weekly coverage will be listed here.
