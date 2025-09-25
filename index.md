@@ -124,7 +124,7 @@ Prof. Dr. Sinan Kalkan<br>
 
 ### <tag id=announcements>Announcements</tag> 
 
-Announcements will be listed here.
+* Please attend the first lecture (1 Oct, 9:40, BMB-3) to be shortlisted for the course.
 
 ### <tag id=weeklycoverage>Weekly Coverage</tag> 
 
