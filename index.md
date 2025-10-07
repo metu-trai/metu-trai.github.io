@@ -128,4 +128,7 @@ Prof. Dr. Sinan Kalkan<br>
 
 ### <tag id=weeklycoverage>Weekly Coverage</tag> 
 
-Weekly coverage will be listed here.
+| Week  | Topics | Slides | 
+| ------------- | ------------- |  ------------- |
+| Week 1 (1 Oct)  | Introduction to the course and the main concepts in trustworthy and responsible AI  | <a href="./slides/CENG7880_week1.pdf">slides</a> |
+
