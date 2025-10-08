@@ -124,7 +124,7 @@ Prof. Dr. Sinan Kalkan<br>
 
 ### <tag id=announcements>Announcements</tag> 
 
-* Please attend the first lecture (1 Oct, 9:40, BMB-3) to be shortlisted for the course.
+* Please fill the following form for submitting your selected papers (D: 16 October): <a href="https://forms.gle/A3taWgxoCHumfYfz9">https://forms.gle/A3taWgxoCHumfYfz9</a>
 
 ### <tag id=weeklycoverage>Weekly Coverage</tag> 
 
