@@ -133,4 +133,5 @@ Prof. Dr. Sinan Kalkan<br>
 | Week 1 (1 Oct)  | Introduction to the course and the main concepts in trustworthy and responsible AI  | <a href="./slides/CENG7880_week1.pdf">slides</a> |
 | Week 2 (8 Oct)  | ML/DL Fundamentals  | <a href="./slides/CENG7880_week2.pdf">lecture notes</a> |
 | Week 3 (15 Oct)  | ML/DL Recent Trends  | <a href="./slides/CENG7880_week3.pdf">slides</a> |
+| Week 4 (22 Oct)  | Robustness to Distribution Shifts; Label Shifts & Using Importance Weights  | <a href="./slides/CENG7880_week4.pdf">slides</a> |
 
