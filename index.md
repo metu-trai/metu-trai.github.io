@@ -133,8 +133,7 @@ Prof. Dr. Sinan Kalkan<br>
 | Week 1 (1 Oct)  | Introduction to the course and the main concepts in trustworthy and responsible AI  | <a href="./slides/CENG7880_week1.pdf">slides</a> |
 | Week 2 (8 Oct)  | ML/DL Fundamentals  | <a href="./slides/CENG7880_week2.pdf">lecture notes</a> |
 | Week 3 (15 Oct)  | ML/DL Recent Trends  | <a href="./slides/CENG7880_week3.pdf">slides</a> |
-| Week 4 (22 Oct)  | Robustness to Distribution Shifts; Label Shifts & Using Importance Weights  | <a href="./slides/CENG7880_week4.pdf">slides</a> and <a href="https://colab.research.google.com/drive/1fpxfcIJW5UxxX72fsS98a0fkXSEeTRGr?usp=drive_link">Colab Tutorial on Label Shift</a> (by Ugur Yalcin)|
+| Week 4 (22 Oct)  | Robust AI: Robustness to Distribution Shifts; Label Shifts & Using Importance Weights  | <a href="./slides/CENG7880_week4.pdf">slides</a> and <a href="https://colab.research.google.com/drive/1fpxfcIJW5UxxX72fsS98a0fkXSEeTRGr?usp=drive_link">Colab Tutorial on Label Shift</a> (by Ugur Yalcin)|
 | Week 5 (29 Oct)  | No lectures owing to the Republic Day of Turkey  | |
-| Week 6 (5 Nov)  | Robustness to Covariate Shifts with Importance Weights; Detecting Covariate Shifts | <a href="./slides/CENG7880_week6.pdf">slides</a> |
-
-
+| Week 6 (5 Nov)  | Robust AI: Robustness to Covariate Shifts with Importance Weights; Detecting Covariate Shifts; Adversarial Robustness | <a href="./slides/CENG7880_week6.pdf">slides</a> and <a href="https://colab.research.google.com/drive/1fpxfcIJW5UxxX72fsS98a0fkXSEeTRGr?usp=drive_link">Colab Tutorial on Covariate Shift</a> (by Ugur Yalcin) |
+| Week 7 (12 Nov)  | Robust AI: Adversarial Robustness; Adversarial Sample Generation; Adversarial Training; Randomized Smoothing; Certified Robustness; Jailbreaking LLMs | <a href="./slides/CENG7880_week7.pdf">slides</a> |
