@@ -137,4 +137,5 @@ Prof. Dr. Sinan Kalkan<br>
 | Week 5 (29 Oct)  | No lectures owing to the Republic Day of Turkey  | |
 | Week 6 (5 Nov)  | Robust AI: Robustness to Covariate Shifts with Importance Weights; Detecting Covariate Shifts; Adversarial Robustness | <a href="./slides/CENG7880_week6.pdf">slides</a> and <a href="https://colab.research.google.com/drive/1fpxfcIJW5UxxX72fsS98a0fkXSEeTRGr?usp=drive_link">Colab Tutorial on Covariate Shift</a> (by Ugur Yalcin) |
 | Week 7 (12 Nov)  | Robust AI: Adversarial Robustness; Adversarial Sample Generation; Adversarial Training; Randomized Smoothing; Certified Robustness; Jailbreaking LLMs | <a href="./slides/CENG7880_week7.pdf">slides</a> |
-| Week 8 (19 Nov)  | Robust AI: Calibration, Conformal Prediction, Uncertainty | <a href="./slides/CENG7880_week8.pdf">slides</a> |
+| Week 8 (19 Nov)  | Robust AI: Calibration, Conformal Prediction, Uncertainty Types | <a href="./slides/CENG7880_week8.pdf">slides</a> |
+| Week 9 (26 Nov)  | Robust AI: Uncertainty Quantification; Explainable AI: Feature Attribution Methods, LIME, SHAP, Gradient-based Saliency Methods | <a href="./slides/CENG7880_week9.pdf">slides</a> |
