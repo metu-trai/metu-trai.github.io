@@ -139,3 +139,6 @@ Prof. Dr. Sinan Kalkan<br>
 | Week 7 (12 Nov)  | Robust AI: Adversarial Robustness; Adversarial Sample Generation; Adversarial Training; Randomized Smoothing; Certified Robustness; Jailbreaking LLMs | <a href="./slides/CENG7880_week7.pdf">slides</a> |
 | Week 8 (19 Nov)  | Robust AI: Calibration, Conformal Prediction, Uncertainty Types | <a href="./slides/CENG7880_week8.pdf">slides</a> |
 | Week 9 (26 Nov)  | Robust AI: Uncertainty Quantification; Explainable AI: Feature Attribution Methods, LIME, SHAP, Gradient-based Saliency Methods | <a href="./slides/CENG7880_week9.pdf">slides</a> |
+| Week 10 (3 Dec)  | Explainable AI: Quality of feature attribution methods; Counterfactual Explanations  | <a href="./slides/CENG7880_week10.pdf">slides</a> |
+| Week 10 (3 Dec)  | Explainable AI: Guest lecture on Concept Bottleneck Models (CBMs) by <a href="https://user.ceng.metu.edu.tr/~emre/">Dr Emre Akbas</a>.  | <a href="./slides/CENG7880_week10_CBMs.pdf">slides</a> |
+
