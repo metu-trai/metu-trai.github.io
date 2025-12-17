@@ -142,4 +142,5 @@ Prof. Dr. Sinan Kalkan<br>
 | Week 10 (3 Dec)  | Explainable AI: Quality of feature attribution methods; Counterfactual Explanations  | <a href="./slides/CENG7880_week10.pdf">slides</a> |
 | Week 10 (3 Dec)  | Explainable AI: Guest lecture on Concept Bottleneck Models (CBMs) by <a href="https://user.ceng.metu.edu.tr/~emre/">Dr Emre Akbas</a>.  | <a href="./slides/CENG7880_week10_CBMs.pdf">slides</a> |
 | Week 11 (10 Dec)  | Explainable AI: Representation Attribution (Concept Activation Vector); Data Attribution; Explainability in LLMs.  | <a href="./slides/CENG7880_week11.pdf">slides</a> |
+| Week 12 (17 Dec)  | Fairness: Sources of bias; Fairness notions, principles, definitions, criteria, and measures. | <a href="./slides/CENG7880_week12.pdf">slides</a> |
 
