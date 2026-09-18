@@ -122,26 +122,21 @@ Prof. Dr. Sinan Kalkan<br>
 <a href="https://metu.edu.tr">METU</a> <a href="https://ceng.metu.edu.tr">Dept. of Computer Engineering</a> and <a href="https://romer.metu.edu.tr">METU Robotics and AI Center</a><br>
 <a href="https://user.ceng.metu.edu.tr/~skalkan/">https://user.ceng.metu.edu.tr/~skalkan/</a>
 
+#### Syllabus 
+
+The syllabus for the course is available <a href="CENG7880_Fall2026_Syllabus.pdf">here</a>.
+
+#### Course Schedule
+
+* Mondays between 9:40-12:30 at BMB-5, starting on 28 September.
+
 ### <tag id=announcements>Announcements</tag> 
 
-* Please fill the following form for submitting your selected papers (D: 16 October): <a href="https://forms.gle/A3taWgxoCHumfYfz9">https://forms.gle/A3taWgxoCHumfYfz9</a>
+* Please attend the first lecture to be considered for registration to the course. 
 
 ### <tag id=weeklycoverage>Weekly Coverage</tag> 
 
 | Week  | Topics | Material | 
 | ------------- | ------------- |  ------------- |
-| Week 1 (1 Oct)  | Introduction to the course and the main concepts in trustworthy and responsible AI  | <a href="./slides/CENG7880_week1.pdf">slides</a> |
-| Week 2 (8 Oct)  | ML/DL Fundamentals  | <a href="./slides/CENG7880_week2.pdf">lecture notes</a> |
-| Week 3 (15 Oct)  | ML/DL Recent Trends  | <a href="./slides/CENG7880_week3.pdf">slides</a> |
-| Week 4 (22 Oct)  | Robust AI: Robustness to Distribution Shifts; Label Shifts & Using Importance Weights  | <a href="./slides/CENG7880_week4.pdf">slides</a> and <a href="https://colab.research.google.com/drive/1fpxfcIJW5UxxX72fsS98a0fkXSEeTRGr?usp=drive_link">Colab Tutorial on Label Shift</a> (by Ugur Yalcin)|
-| Week 5 (29 Oct)  | No lectures owing to the Republic Day of Turkey  | |
-| Week 6 (5 Nov)  | Robust AI: Robustness to Covariate Shifts with Importance Weights; Detecting Covariate Shifts; Adversarial Robustness | <a href="./slides/CENG7880_week6.pdf">slides</a> and <a href="https://colab.research.google.com/drive/1fpxfcIJW5UxxX72fsS98a0fkXSEeTRGr?usp=drive_link">Colab Tutorial on Covariate Shift</a> (by Ugur Yalcin) |
-| Week 7 (12 Nov)  | Robust AI: Adversarial Robustness; Adversarial Sample Generation; Adversarial Training; Randomized Smoothing; Certified Robustness; Jailbreaking LLMs | <a href="./slides/CENG7880_week7.pdf">slides</a> |
-| Week 8 (19 Nov)  | Robust AI: Calibration, Conformal Prediction, Uncertainty Types | <a href="./slides/CENG7880_week8.pdf">slides</a> |
-| Week 9 (26 Nov)  | Robust AI: Uncertainty Quantification; Explainable AI: Feature Attribution Methods, LIME, SHAP, Gradient-based Saliency Methods | <a href="./slides/CENG7880_week9.pdf">slides</a> |
-| Week 10 (3 Dec)  | Explainable AI: Quality of feature attribution methods; Counterfactual Explanations  | <a href="./slides/CENG7880_week10.pdf">slides</a> |
-| Week 10 (3 Dec)  | Explainable AI: Guest lecture on Concept Bottleneck Models (CBMs) by <a href="https://user.ceng.metu.edu.tr/~emre/">Dr Emre Akbas</a>.  | <a href="./slides/CENG7880_week10_CBMs.pdf">slides</a> |
-| Week 11 (10 Dec)  | Explainable AI: Representation Attribution (Concept Activation Vector); Data Attribution; Explainability in LLMs.  | <a href="./slides/CENG7880_week11.pdf">slides</a> |
-| Week 12 (17 Dec)  | Fairness: Sources of bias; Fairness notions, principles, definitions, criteria, and measures. | <a href="./slides/CENG7880_week12.pdf">slides</a> |
-| Week 13 (24 Dec)  | Fairness: Fairness algorithms; Fairness in LLMs. | <a href="./slides/CENG7880_week13.pdf">slides</a> |
-| Week 14 (31 Dec)  | Fairness: Fairness algorithms; Fairness Verification. | <a href="./slides/CENG7880_week14.pdf">slides</a> |
+| Week 1 (28 Sept)  | Introduction to the course and the main concepts in trustworthy and responsible AI  |  |
+
