@@ -128,11 +128,13 @@ The syllabus for the course is available <a href="CENG7880_Fall2026_Syllabus.pdf
 
 #### Course Schedule
 
-* Mondays between 9:40-12:30 at BMB-5, starting on 28 September.
+* Mondays between 9:40-12:30 at BMB-5, starting on <strike>28 September</strike> 5 October.
+* [!CAUTION] No lecture on 28 September owing to the METU Opening Ceremony.
 
 ### <tag id=announcements>Announcements</tag> 
 
-* Please attend the first lecture to be considered for registration to the course. 
+* Please attend the first lecture (5 October) to be considered for registration to the course.
+* [!CAUTION] No lecture on 28 September owing to the METU Opening Ceremony.
 
 ### <tag id=weeklycoverage>Weekly Coverage</tag> 
 
