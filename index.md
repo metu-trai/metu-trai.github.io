@@ -146,5 +146,5 @@ The syllabus for the course is available <a href="CENG7880_Fall2026_Syllabus.pdf
 
 | Week  | Topics | Material | 
 | ------------- | ------------- |  ------------- |
-| Week 1 (28 Sept)  | Introduction to the course and the main concepts in trustworthy and responsible AI  |  |
+| Week 1 (28 Sept)  | Introduction to the course and the main concepts in trustworthy and responsible AI  | <a href="./slides/CENG7880_week1-compressed.pdf">slides</a> |
 
