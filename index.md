@@ -130,21 +130,20 @@ The syllabus for the course is available <a href="CENG7880_Fall2026_Syllabus.pdf
 
 * Mondays between 9:40-12:30 at BMB-5, starting on <strike>28 September</strike> 5 October.
   
-<div style="padding: 15px; border-left: 5px solid #d9383a; background-color: #fdf2f2; color: #000; border-radius: 4px; margin: 20px 0;">
+<!-- <div style="padding: 15px; border-left: 5px solid #d9383a; background-color: #fdf2f2; color: #000; border-radius: 4px; margin: 20px 0;">
   <strong>⚠️ CAUTION:</strong> No lecture on 28 September owing to the METU Opening Ceremony.
-</div>
+</div>-->
 
 ### <tag id=announcements>Announcements</tag> 
 
 * Please attend the first lecture (5 October) to be considered for registration to the course.
 
-<div style="padding: 15px; border-left: 5px solid #d9383a; background-color: #fdf2f2; color: #000; border-radius: 4px; margin: 20px 0;">
-  <strong>⚠️ CAUTION:</strong> No lecture on 28 September owing to the METU Opening Ceremony.
-</div>
 
 ### <tag id=weeklycoverage>Weekly Coverage</tag> 
 
 | Week  | Topics | Material | 
 | ------------- | ------------- |  ------------- |
-| Week 1 (28 Sept)  | Introduction to the course and the main concepts in trustworthy and responsible AI  | <a href="./slides/CENG7880_week1-compressed.pdf">slides</a> |
+| Week 1 (28 Sept)  | No lecture owing to the opening ceremony | |
+| Week 2 (5 Oct ) | Introduction to the course and the main concepts in trustworthy and responsible AI  | <a href="./slides/CENG7880_week1-compressed.pdf">slides</a> |
+| Week 3 (12 Oct)  | Robustness to Label and Covariate Shifts  | <a href="./slides/CENG7880_week2.pdf">slides</a> |
 
