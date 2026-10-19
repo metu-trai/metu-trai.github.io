@@ -144,6 +144,7 @@ The syllabus for the course is available <a href="CENG7880_Fall2026_Syllabus.pdf
 | Week  | Topics | Material | 
 | ------------- | ------------- |  ------------- |
 | Week 1 (28 Sept)  | No lecture owing to the opening ceremony | |
-| Week 2 (5 Oct ) | Introduction to the course and the main concepts in trustworthy and responsible AI  | <a href="./slides/CENG7880_week1-compressed.pdf">slides</a> |
-| Week 3 (12 Oct)  | Robustness to Label and Covariate Shifts  | <a href="./slides/CENG7880_week2.pdf">slides</a> |
+| Week 2 (5 Oct ) | Introduction to the course and the main concepts in trustworthy and responsible AI  | <a href="./slides/CENG7880_week2-compressed.pdf">slides</a> |
+| Week 3 (12 Oct)  | Robustness to Label and Covariate Shifts  | <a href="./slides/CENG7880_week3.pdf">slides</a> |
+| Week 4 (19 Oct)  | Robustness Evaluation Bounds, Adversarial Robustness  | <a href="./slides/CENG7880_week4.pdf">slides</a> |
 
