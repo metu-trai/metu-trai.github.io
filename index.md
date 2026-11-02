@@ -148,6 +148,6 @@ The syllabus for the course is available <a href="CENG7880_Fall2026_Syllabus.pdf
 | Week 3 (12 Oct)  | Robustness to Label and Covariate Shifts  | <a href="./slides/CENG7880_week3.pdf">slides</a> |
 | Week 4 (19 Oct)  | Robustness Evaluation Bounds, Adversarial Robustness  | <a href="./slides/CENG7880_week4.pdf">slides</a> |
 | Week 5 (26 Oct)  | Robustness: Adversarial Defenses, Verifying Robustness. Uncertainty: Calibration, Conformal Prediction.  | <a href="./slides/CENG7880_week5.pdf">slides</a> |
-| Week 6 (2 Nov)  | Robustness: Predictive Uncertainty Types and their Quantification. Robustness in LLMs.  | <a href="./slides/CENG7880_week6.pdf">slides</a> |
+| Week 6 (2 Nov)  | Robustness: Predictive Uncertainty Types and their Quantification.   | <a href="./slides/CENG7880_week6.pdf">slides</a> |
 
 
