@@ -151,5 +151,6 @@ The syllabus for the course is available <a href="CENG7880_Fall2026_Syllabus.pdf
 | Week 6 (2 Nov)  | Robustness: Predictive Uncertainty Types and their Quantification.   | <a href="./slides/CENG7880_week6.pdf">slides</a> |
 | Week 7 (9 Nov)  | Robustness in LLMs/VLMs. Explainability: Introduction.   | <a href="./slides/CENG7880_week7.pdf">slides</a> |
 | Week 8 (16 Nov)  | Explainability: Feature Attribution Methods [LIME].   | <a href="./slides/CENG7880_week8.pdf">slides</a> |
+| Week 9 (23 Nov)  | Explainability: Feature Attribution Methods [SHAP, gradient-based saliency, counterfactuals]. Evaluating Feature Attribution Methods. Representation-level Methods.   | <a href="./slides/CENG7880_week9.pdf">slides</a> |
 
 
